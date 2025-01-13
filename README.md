@@ -1,0 +1,2 @@
+# Image Classification and Time Prediction with CNNs and MLPs using TensorFlow/Keras
+ This project uses TensorFlow and Keras to implement MLPs and CNNs for image classification tasks on Fashion MNIST and CIFAR-10 datasets. Additionally, a CNN model is developed for the Tell-the-Time problem to predict the time from analog clock images, experimenting with both classification and regression approaches
