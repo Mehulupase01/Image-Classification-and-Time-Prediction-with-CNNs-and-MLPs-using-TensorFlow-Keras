@@ -18,11 +18,8 @@ This project implements **Multi-Layer Perceptrons (MLPs)** and **Convolutional N
    - **Multi-head Model**: A combined approach where one head predicts the hour and another predicts the minute.
 
 ### Code Structure:
-1. **`fashion_mnist_mlp.py`**: MLP model for classifying **Fashion MNIST**.
-2. **`fashion_mnist_cnn.py`**: CNN model for **Fashion MNIST**.
-3. **`cifar10_cnn.py`**: CNN model for **CIFAR-10** dataset.
-4. **`tell_the_time_cnn.py`**: CNN model for solving the **Tell-the-Time problem** with both classification and regression approaches.
-5. **`common_sense_error.py`**: Function to calculate "common sense" error for time predictions.
+This project is implemented in a single Jupyter notebook:
+- **`Image_Classification_and_Time_Prediction.ipynb`**: A Jupyter notebook containing all code for image classification, neural network model training, and time prediction using both classification and regression approaches.
 
 ### Neural Network Architecture:
 
@@ -111,4 +108,3 @@ This project showcases the implementation of **MLPs** and **CNNs** for image cla
 2. **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurelien Geron.
 3. **Fashion MNIST Dataset**: https://github.com/zalandoresearch/fashion-mnist
 4. **CIFAR-10 Dataset**: https://www.cs.toronto.edu/~kriz/cifar.html
-
